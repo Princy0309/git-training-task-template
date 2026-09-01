@@ -2,7 +2,7 @@ Hey everyone, My name is Princy Mishra
 I am a second year student of Information and tevhnology(IT) branch
 My domain is-->developer
 
-About my learnings:
+About my learnings and hobbies:
 what i did:
     html
     CSS
@@ -11,3 +11,7 @@ what i did:
 what I am currently learning:
     Python(Backend)
     dsa(with C++)
+
+hobbies:
+   i play badminton
+   i like listening music
